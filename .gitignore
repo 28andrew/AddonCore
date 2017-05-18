@@ -1,0 +1,11 @@
+#AddonCore > .gitignore
+
+#IntelliJ IDEA
+.idea/libraries/
+.idea/markdown-navigator/
+.idea/workspace.xml
+.idea/tasks.xml
+
+#Maven
+dependency-reduced-pom.xml
+target/
